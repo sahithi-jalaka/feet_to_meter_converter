@@ -38,20 +38,20 @@ Output: 3.0480 meters
 2. Navigate to the project directory:
 
    ```bash
-   cd feet-to-meter-converter
+   cd feet_to_meter_converter
    ```
 
 3. Run the Python program:
 
    ```bash
-   python3 feet_to_meter.py
+   python3 weight_conversion.py
    ```
 
 ## 📂 Project Structure
 
 ```text
 feet-to-meter-converter/
-├── feet_to_meter.py
+├── weight_conversion.py
 └── README.md
 ```
 
